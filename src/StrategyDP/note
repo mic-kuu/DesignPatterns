@@ -1,0 +1,5 @@
+http://www.newthinktank.com/2012/08/strategy-design-pattern-tutorial/
+
+This design pattern is used to separate code from super and subclasses.
+It allows to change some behaviour at runtime.
+Allows you to avoid code repetition.
