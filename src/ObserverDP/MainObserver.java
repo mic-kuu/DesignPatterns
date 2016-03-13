@@ -6,6 +6,8 @@ package ObserverDP;
 public class MainObserver {
     public static void main (String[] args){
 
+        //TODO: Write Observer pattern example using threads
+
         PatientGrabber patientGrabber = new PatientGrabber();
 
         PatientObserver device1 = new PatientObserver(patientGrabber);
