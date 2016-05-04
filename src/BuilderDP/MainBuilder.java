@@ -1,7 +1,7 @@
 package BuilderDP;
 
 /**
- * Created by root on 15.03.16.
+ * The Main class for playing with the Builder Design Pattern
  */
 public class MainBuilder {
 

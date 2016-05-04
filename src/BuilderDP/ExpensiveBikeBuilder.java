@@ -1,7 +1,7 @@
 package BuilderDP;
 
 /**
- * Created by root on 15.03.16.
+ * The implementation of an Expensive Bike
  */
 public class ExpensiveBikeBuilder implements BikeBuilder {
 

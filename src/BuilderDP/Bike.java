@@ -1,7 +1,7 @@
 package BuilderDP;
 
 /**
- * Created by root on 15.03.16.
+ * Biker plan implementation
  */
 public class Bike implements BikePlan {
 

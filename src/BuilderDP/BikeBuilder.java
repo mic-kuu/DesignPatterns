@@ -1,7 +1,7 @@
 package BuilderDP;
 
 /**
- * Created by root on 15.03.16.
+ * The interface for building a Bike
  */
 public interface BikeBuilder {
     void buildWheels();

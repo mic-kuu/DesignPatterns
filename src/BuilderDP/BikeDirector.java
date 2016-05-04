@@ -1,7 +1,7 @@
 package BuilderDP;
 
 /**
- * Created by root on 15.03.16.
+ * The director class
  */
 public class BikeDirector {
     private BikeBuilder bikeBuilder;

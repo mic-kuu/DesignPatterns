@@ -1,7 +1,7 @@
 package BuilderDP;
 
 /**
- * Created by root on 15.03.16.
+ * The plan for build a bike
  */
 public interface BikePlan {
     void setWheels (String wheels);
